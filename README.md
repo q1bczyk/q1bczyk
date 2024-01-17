@@ -1,5 +1,3 @@
-# Witaj na moim profilu! 👋
-
 <h2 align="left">Tech stack</h2>
 
 ###
