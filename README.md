@@ -1,4 +1,4 @@
-<h2 align="left">Tech stack</h2>
+![image](https://github.com/q1bczyk/q1bczyk/assets/131433987/7cbd9071-85dc-41b9-926b-34fe4c45de52)<h2 align="left">Tech stack</h2>
 
 ###
 
@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png" height="40" alt="react logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
