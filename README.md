@@ -1,4 +1,4 @@
-![image](https://github.com/q1bczyk/q1bczyk/assets/131433987/7cbd9071-85dc-41b9-926b-34fe4c45de52)<h2 align="left">Tech stack</h2>
+
 
 ###
 
